@@ -13,3 +13,6 @@
 => 0 == 0
 
 => true
+
+They look the same but are different because they reference different memory positions. 
+This is the Reference property of Arrays
