@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/41208480/93734580-d6330700-fba7-11ea-8b49-4e708c951053.png)
+![image](https://user-images.githubusercontent.com/41208480/93734652-1a260c00-fba8-11ea-818e-90a8b12d2812.png)
 
 #These are the comparisons and operations performed by the abstract equality comparison algorithm:
 
